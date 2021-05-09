@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "parcel": "*",
+    "phaser": "^3.54.0",
+    "phaser3-weapon-plugin": "^2.1.0"
+  },
+  "name": "gamejs",
+  "description": "To zadanie realizowane jest w parach. Termin oddania - za dwa zajęcia.\r ### Celem projektu jest stworzenie prostej gry działającej w elemencie canvas (liczby w nawiasach oznaczają punktację, maksymalnie za projekt można otrzymać 5 punktów).\r - Podstawa na zaliczenie (1): sterowanie myszą lub/i klawiaturą, poruszające się obiekty, kolizje między nimi, prosta logika.\r - (+1) Przynajmniej część obiektów jest animowana (klatki animacji).\r - (+1) Kilka typów obiektów różniących się zachowaniem (np. wrogowie, pułapki i skarby).\r - (+1) Bardziej złożona logika i zależności między elementami gry (np. AI wrogów, zarządzanie zasobami).\r - (+1) Kilka typów interakcji (np. walka i dialogi).\r - (+1) Większy świat gry (np. scrollowana plansza, poziomy, przechodzenie między ekranami pomieszczeń).\r ### Uwagi:\r - dozwolone (a nawet wskazane) jest korzystanie z bibliotek i frameworków do tworzenia gier (np. pixi, phaser), ale nie gamemakerów,\r - dozwolone jest opieranie się na znalezionych przykładach, ale niedozwolone jest ich kopiowanie - oddając projekt trzeba będzie wykazać co zostało zrealizowane samodzielnie.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "webpack-dev-server": "^3.11.2"
+  },
+  "scripts": {
+    "test": "",
+    "dev": "parcel index.html"
+  },
+  "author": "MM & MM",
+  "license": "ISC"
+}
