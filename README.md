@@ -1,7 +1,7 @@
 # GameJS
 ## Gra tworzona na potrzeby zaliczenia projektu z JS
 
-To zadanie realizowane jest w parach. Termin oddania - za dwa zajęcia.
+To zadanie realizowane jest w parach. * Termin oddania 18.0.
 ### Celem projektu jest stworzenie prostej gry działającej w elemencie canvas (liczby w nawiasach oznaczają punktację, maksymalnie za projekt można otrzymać 5 punktów).
 - Podstawa na zaliczenie (1): sterowanie myszą lub/i klawiaturą, poruszające się obiekty, kolizje między nimi, prosta logika.
 - (+1) Przynajmniej część obiektów jest animowana (klatki animacji).
